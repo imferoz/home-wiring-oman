@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://home-wiring-oman.alwejhagroup.com/sitemap.xml
